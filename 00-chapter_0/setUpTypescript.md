@@ -82,4 +82,4 @@ To make your life easier, add these shortcuts to the `"scripts"` object inside y
 - **`npm run start`**: Runs the compiled JavaScript code.
 
 
-Final command : npm init -y ; npm install -D typescript tsx @types/node ;  npx tsc --init ; mkdir src 
+Final command : npm init -y ; npm install -D typescript tsx @types/node ;  npx tsc --init ; mkdir src ;cd .\src\ ;type nul > index.ts
