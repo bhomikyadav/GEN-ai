@@ -55,7 +55,7 @@ async function run() {
         model: 'gpt-4o-mini',
         messages: [
             {
-                role: 'user',
+                role: 'system',
                 content: 'Hello My name is Bhomik',
             },
         ],

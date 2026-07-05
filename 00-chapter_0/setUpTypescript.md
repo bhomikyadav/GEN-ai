@@ -80,3 +80,6 @@ To make your life easier, add these shortcuts to the `"scripts"` object inside y
 - **`npm run dev`**: Runs your code instantly and watches for changes. Perfect for local development.
 - **`npm run build`**: Compiles your TypeScript files into production-ready JavaScript inside the `dist/` folder.
 - **`npm run start`**: Runs the compiled JavaScript code.
+
+
+Final command : npm init -y ; npm install -D typescript tsx @types/node ;  npx tsc --init ; mkdir src 
