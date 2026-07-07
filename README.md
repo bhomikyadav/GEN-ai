@@ -156,4 +156,3 @@ This chapter focuses on embeddings:
 This repository provides a practical introduction to modern Generative AI development using Node.js and TypeScript. It starts with the basics and gradually moves toward more advanced concepts like memory, tools, and embeddings.
 
 
-===END==s
